@@ -1,0 +1,6 @@
+COURSE CONTENTS
+1. Introduction to BMS
+2. Equivalent Circuit Cell Model Simulation
+3. Battery State Of Charge (SOC) estimation
+4. Battery State Of Health (SOH) estimation
+5. Balancing and Power Estimation of Battery Pack
